@@ -1,4 +1,4 @@
 def main():
-  printfff("hello world")
+  print("rock my world")
   
 main()
